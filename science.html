@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full Screen Image</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: Arial, sans-serif;
+        }
+
+        .full-screen {
+            position: relative;
+            height: 100%;
+            background-image: url('/assets/Meerkat_GC.jpg'); 
+            background-size: cover;
+            background-position: center;
+        }
+
+        .title {
+            position: absolute;
+            top: 6%;
+            left: 30%;
+            transform: translate(-50%, -50%);
+            color: rgb(255, 255, 255);
+            font-size: 48px;
+            text-align: center;
+        }
+
+        .logo {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            width: 100px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="full-screen">
+        <h1 class="title">Under Construction</h1>
+        <img src="ska-ireland-icon.png" alt="Logo" class="logo"> 
+    </div>
+</body>
+
+</html>
