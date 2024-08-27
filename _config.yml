@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title : SKA Ireland
-description : This the website of SKA Ireland
+description : This is the website of SKA Ireland
 
-
+github:
+  repository_url: https://github.com/SKA-Ireland/SKA-Ireland.github.io
