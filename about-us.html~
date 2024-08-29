@@ -115,10 +115,12 @@
     </div>
 </body>
 
-#<body>
-#    <div class="full-screen">
-#        <img src="ska-ireland-icon.png" alt="Logo" class="logo">
-#    </div>
-#</body>
+<!--
+<body>
+    <div class="full-screen">
+        <img src="ska-ireland-icon.png" alt="Logo" class="logo">
+    </div>
+</body>
+-->
 
 </html>
